@@ -2,7 +2,7 @@
 body {
   background-color: #002080;
   background-image: linear-gradient(#002080, #b3c6ff);
-  background-size: auto;
+  background-size: contain;
 }
 /* Make the header and footer a different color from the background */
 .bookends {
@@ -31,7 +31,7 @@ p {
 }
 
 /* Change the font-family of your list */
-.facts {
+.list {
   color: #000000;
   font-family: serif;
   align-content: center;
