@@ -1,6 +1,6 @@
 /* Give your page a fun background color */
 body {
-  background-color: linear-gradient(blue, green);
+  background-color: (#0000FF, #000000);
 }
 /* Make the header and footer a different color from the background */
 
