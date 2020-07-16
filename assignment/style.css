@@ -2,7 +2,7 @@
 body {
   background-color: #002080;
   background-image: linear-gradient(#002080, #b3c6ff);
-  background-size: auto;
+  background-size: cover;
 }
 /* Make the header and footer a different color from the background */
 .bookends {
@@ -30,6 +30,6 @@ p {
 
 /* Change the font-family of your list */
 .facts {
-  color: #FFFFFF;
+  color: #000000;
   font-family: serif;
 }
