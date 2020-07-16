@@ -23,7 +23,9 @@ p {
 }
 /* Put a border around your image */
 .billboard {
-  align-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border: 5px;
   border-color: #000000;
 }
