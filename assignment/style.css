@@ -13,7 +13,7 @@ body {
 /* Make the header and footer a different color from the background */
 .bookends {
   background: rgba(80, 80, 80, .5);
-  padding: 10px;
+  margins: 5px;
 
 }
 /* Align the h1 containing your name in the center of the header*/
