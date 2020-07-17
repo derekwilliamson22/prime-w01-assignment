@@ -38,9 +38,9 @@ p {
 }
 
 /* Change the font-family of your list */
-.list {
+.list ul {
   color: #000000;
   font-family: serif, verdana;
-  text-align: center;
-  list-style: inside;
+  text-align: left;
+  list-style: none;
 }
