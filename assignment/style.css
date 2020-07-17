@@ -1,12 +1,15 @@
 /* Give your page a fun background color */
 body {
+  display: block;
+  margin: auto;
   background-color: #002080;
   background-image: linear-gradient(#002080, #b3c6ff);
-  background-size: contain;
+
 }
 /* Make the header and footer a different color from the background */
 .bookends {
   background-color: #808080;
+  opacity: 0.5;
 }
 /* Align the h1 containing your name in the center of the header*/
 h1 {
