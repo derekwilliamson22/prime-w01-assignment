@@ -35,6 +35,7 @@ p {
 }
 /* Put a border around your image */
 .billboard img {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   border: 5px solid;
@@ -43,6 +44,7 @@ p {
 
 /* Change the font-family of your list */
 .list ul {
+  display: block;
   color: #000000;
   font-family: serif, verdana;
   text-align: center;
