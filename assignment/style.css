@@ -35,7 +35,6 @@ p {
 }
 /* Put a border around your image */
 .billboard img {
-  display: block;
   margin-left: auto;
   margin-right: auto;
   border: 5px solid;
