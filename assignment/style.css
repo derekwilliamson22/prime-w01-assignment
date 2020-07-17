@@ -19,6 +19,7 @@ body {
 .bookends h1 {
   text-align: center;
   color: #000000;
+  padding: 5px;
 
 }
 /* Make your p tag a different color and italic */
