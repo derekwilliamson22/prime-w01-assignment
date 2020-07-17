@@ -11,14 +11,13 @@ body {
 }
 /* Make the header and footer a different color from the background */
 .bookends {
-  background-color: #808080;
-  opacity: 0.5;
+  background: rgba(80, 80, 80, .5);
+
 }
 /* Align the h1 containing your name in the center of the header*/
 .bookends h1 {
   text-align: center;
   color: #000000;
-  opacity: 1.0;
 
 }
 /* Make your p tag a different color and italic */
