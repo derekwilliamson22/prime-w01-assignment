@@ -48,4 +48,5 @@ p {
   font-family: serif, verdana;
   text-align: center;
   list-style: inside;
+  padding: 0;
 }
