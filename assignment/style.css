@@ -42,4 +42,5 @@ p {
   color: #000000;
   font-family: serif, verdana;
   text-align: center;
+  list-style: inside;
 }
